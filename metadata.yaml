@@ -1,6 +1,9 @@
 _repo: The-face-of-Manchuria-Korea-Russian-Turkestan_71965
 _version: 0.1.0
 alternative_title: The face of Manchuria, Korea, and Russian Turkestan
+covers:
+- cover_type: archival
+  image_path: 71965-h/images/cover.jpg
 creator:
   author:
     agent_name: Kemp, E. G. (Emily Georgiana)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56359
     wikipedia: https://en.wikipedia.org/wiki/Emily_Georgiana_Kemp
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71965#The-face-of-Manchuria-Korea-Russian-Turkestan
 gutenberg_issued: '2023-10-26'
 identifiers:
   gutenberg: '71965'
